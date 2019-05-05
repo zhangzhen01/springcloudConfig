@@ -1,0 +1,7 @@
+turbine:
+            appConfig: service-feign, service-ribbon
+                aggregator:
+                                clusterConfig: default
+                                    clusterNameExpression: new String("default")
+hello:
+        hello world from git4
