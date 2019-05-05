@@ -1,0 +1,8 @@
+hello:
+  hello world from git5
+spring:
+  rabbitmq:
+    host: 61.130.9.251
+    port: 5672
+    username: admin
+    password: admin123
