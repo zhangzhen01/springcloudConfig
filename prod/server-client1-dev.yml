@@ -1,5 +1,5 @@
 hello:
-  hello world from git2
+  hello world from git3
 spring:
   rabbitmq:
     host: 61.130.9.251
